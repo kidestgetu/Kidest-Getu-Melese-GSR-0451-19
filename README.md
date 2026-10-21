@@ -56,4 +56,4 @@ Git was used to initialize the local repository, track project files, and record
 
 ### 8. Data Note
 
-The dataset used in this exercise, "Student Grade", contains fictional sample records for learning purposes. It does not represent real individuals or patients.
+The dataset used in this exercise, "Student Grade", contains fictional sample records for learning purposes. It does not represent real students' grades.
